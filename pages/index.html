@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/index.css">
+    <title>RefúgioTech ROBOTICS</title>
+</head>
+<body>
+    
+    <div class="container">
+        <nav>
+            <div class="logo">
+                <a href="index.html"> <img src="/assets/menu.png" width="100%"> </a>
+            </div>
+
+            <ul>
+                <li> <a href="#">Home</a> </li>
+                <li> <a href="#">Sobre</a> </li>
+                <li> <a href="#">Campetições</a> </li>
+                <li> <a href="integrantes.html">Integrantes</a> </li>
+                <li> <a href="#">Contato</a> </li>
+                <li> <a href="#">Produtos</a> </li>
+                <li class="lg"> <a href="#">Login</a> </li>
+            </ul>
+
+            <div class="menu-icon">
+                <img src="/assets/menu1.jpg">
+            </div>
+
+        </nav>
+
+        <main>
+            <div class="main__text">
+                <h1> <b>DTRA</b> <strong>RefúgioTech ROBOTICS </strong> </h1>
+          
+                <p>
+   <b>
+    Somos uma companhia de desenvolvimento tecnológico e robótica, que visa a disseminação do conhecimento.
+   </b>
+                </p>
+                <button>Saiba mais</button>
+            </div>
+            <div class="main__img">
+                <img src="/assets/Robotics-cuate.png">
+            </div>
+        </main>
+    </div>
+
+    <script>
+        var menu = document.querySelector('nav ul');
+        var menuIcon = document.querySelector('nav .menu-icon');
+        var menuIconImg = document.querySelector('nav .menu-icon img');
+
+        menuIcon.addEventListener('click',()=>{
+            menu.classList.toggle('activo');
+            if (menuIconImg.getAttribute("src") == 'menu.png') {
+                menuIconImg.setAttribute("src","close.png");
+            }else{
+                menuIconImg.setAttribute("src","menu.png"); 
+            }
+        })
+
+
+
+
+    </script>
+</body>
+</html>
