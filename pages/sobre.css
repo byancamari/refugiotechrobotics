@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/sobre.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <title>Sobre</title>
+</head>
+<body>
+    <div class="container">
+        <div class="polaroid">
+          <img class="photo" src="/assets/w1.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      
+        <div class="polaroid">
+          <img class="photo" src="/assets/w2.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      
+        <div class="polaroid">
+          <img class="photo" src="/assets/w3 (2).jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+        
+        <div class="polaroid">
+          <img class="photo" src="/assets/w4.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      
+        <div class="polaroid">
+          <img class="photo" src="/assets/w5.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      
+        <div class="polaroid">
+          <img class="photo" src="/assets/w6.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+        
+        <div class="polaroid">
+          <img class="photo" src="/assets/w7.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      
+        <div class="polaroid">
+          <img class="photo" src="/assets/w8.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      
+        <div class="polaroid">
+          <img class="photo" src="/assets/w9.jpeg" alt="">
+      
+          <div class="caption">
+            <h2>Somewhere</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam quas, obcaecati nulla minus expedita autem maiores in quo, optio earum dolorem libero. Odio laborum voluptates aliquam provident aut laudantium non.</p>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
