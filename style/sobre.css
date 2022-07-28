@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(134deg, #578768da, 45%, white);
+  }
+  
+  .container {
+    margin: 40px auto;
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 20px;
+    grid-row-gap: 40px;
+    justify-content: center;
+    padding: 0 20px;
+    color: #fff;
+  
+  }
+  
+  .polaroid {
+    background: rgb(0, 0, 0);
+    padding: 15px 15px 40px;
+  }
+  
+  .photo {
+    width: 100%;
+    height: 290px;
+    object-fit: cover;
+  }
+  
+  .caption {
+    margin-top: 10px;
+  }
